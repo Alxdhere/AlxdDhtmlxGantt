@@ -1,11 +1,7 @@
 <?php
-//Yii::import('ext.AlxdGridView.AlxdGridView');
 Yii::import('zii.widgets.CBaseListView');
-//Yii::import('zii.widgets.grid.CGridView');
-//Yii::import('zii.widgets.grid.CGridColumn');
 Yii::import('zii.widgets.grid.CDataColumn');
 Yii::import('zii.widgets.grid.CCheckBoxColumn');
-//Yii::import('zii.widgets.grid.CLinkColumn');
 
 class AlxdDhtmlxGantt extends CBaseListView//CGridView////AlxdGridView//CBaseListView //CWidget
 {
