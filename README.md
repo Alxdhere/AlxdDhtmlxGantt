@@ -1,7 +1,7 @@
 AlxdDhtmlxGantt
 ===============
 
-DHTMLX Gantt component for Yii 1.x
+DHTMLX Gantt component for Yii 1.x (see http://docs.dhtmlx.com/gantt/)
 
 Simple example (from class):
 
