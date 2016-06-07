@@ -527,29 +527,6 @@ class AlxdDhtmlxGantt extends CBaseListView
 //                $htmlOptions['class']=$class;
 //        }
 
-//        echo CHtml::openTag('tr', $htmlOptions)."\n";
-//        $startDt = $data->getAttributeref('tsk_task_plan_startdate')->value;
-//        if (is_null($startDt)) {
-////            $ret['start_date'] = null;
-//        } else {
-//            $startDt = new DateTime($startDt);
-//            $ret['start_date'] = $startDt->format('d-m-Y');
-//        }
-//
-//        $endDt = $data->getAttributeref('tsk_task_plan_enddate')->value;
-//        if (is_null($endDt)) {
-//            $ret['duration'] = 0;
-//        } else {
-//            $endDt = new DateTime($endDt);
-//            if (is_null($startDt)) {
-//                $ret['start_date'] = $endDt->format('d-m-Y');
-//                $ret['duration'] = 0;
-//            } else {
-//                $ret['duration'] = $endDt->diff($startDt)->days;
-////                $ret['duration'] = $endDt->diff($startDt)->h;
-//            }
-//        }
-
 //http://docs.dhtmlx.com/gantt/samples/common/data.json
 //http://docs.dhtmlx.com/gantt/samples/common/testdata.js
 //            $tasks = array(
