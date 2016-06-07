@@ -3,7 +3,7 @@ Yii::import('zii.widgets.CBaseListView');
 Yii::import('zii.widgets.grid.CDataColumn');
 Yii::import('zii.widgets.grid.CCheckBoxColumn');
 
-class AlxdDhtmlxGantt extends CBaseListView//CGridView////AlxdGridView//CBaseListView //CWidget
+class AlxdDhtmlxGantt extends CBaseListView
 {
     private $_assets;
 
